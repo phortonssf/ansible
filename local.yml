@@ -9,3 +9,5 @@
     - include: tasks/npm-packages.yml
     - include: tasks/core.yml
     - include: tasks/github-cli.yml
+    - include: tasks/zsh.yml
+    - include: tasks/nvim.yml
